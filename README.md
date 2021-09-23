@@ -3,7 +3,6 @@
 Algunas librerías necesarias:
 
 	- nltk
-	- KMeans
 	- gensim
 	- matplotlib
 	- seaborn
