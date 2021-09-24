@@ -13,7 +13,7 @@ Algunas librerías necesarias:
 	
 # Dirs and files
 
-- [Procesamiento y análisis textual -  (Jupyter Notebook)](nbs/analysis_sent_txt.ipynb)
+- [Procesamiento y análisis textual -  (Jupyter Notebook)](nbs/procesamiento.ipynb)
 
 	Content:
 	
