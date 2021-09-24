@@ -11,7 +11,7 @@ Algunas librerías necesarias:
 	- sklearn
 	
 	
-# Dirs and files
+# Files
 
 - [Procesamiento y análisis textual -  (Jupyter Notebook)](nbs/procesamiento.ipynb)
 
