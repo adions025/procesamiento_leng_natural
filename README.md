@@ -1,4 +1,4 @@
-# Notebooks del preprocesado del lenguaje natural 
+# Procesamiento del lenguaje natural
 
 Algunas librerías necesarias:
 
@@ -30,6 +30,8 @@ Algunas librerías necesarias:
     - Detección de polaridad: Extracción de polaridades de las opiniones.
     - Clasificación: clasificación de opiniones.
     - Evaluación: comparación de modelos.
+	
+- [Deep Learning para el análisis de textos y sentimientos - (Jupyter Notebook)]()
 
 
 # Author
