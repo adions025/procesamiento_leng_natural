@@ -1,4 +1,4 @@
-# Algunos Notebooks del procesamiento y análisis textual
+# Notebooks del preprocesado del lenguaje natural 
 
 Algunas librerías necesarias:
 
