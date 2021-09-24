@@ -21,6 +21,16 @@ Algunas librerías necesarias:
     - Obtención de datos a partir de recursos externos al texto: Similitud de significado con Wordnet y ConceptNet.
     - Interpretación de los datos: Detectar temas.
     - Predicción: Clasificación de textos.
+	
+- [Análisis de sentimientos -  (Jupyter Notebook)](nbs/analysis_sent.ipynb)
+
+	Content:
+	
+    - Detección de elementos de opiniones: Identificación de targets, aspectos y opinion words.
+    - Detección de polaridad: Extracción de polaridades de las opiniones.
+    - Clasificación: clasificación de opiniones.
+    - Evaluación: comparación de modelos.
+
 
 # Author
 
