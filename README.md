@@ -31,7 +31,15 @@ Algunas librerías necesarias:
     - Clasificación: clasificación de opiniones.
     - Evaluación: comparación de modelos.
 	
-- [Deep Learning para el análisis de textos y sentimientos - (Jupyter Notebook)]()
+- [Deep Learning para el análisis de textos y sentimientos - (Jupyter Notebook)](nbs/deep_learning_nlp.ipynb)
+
+	Content:
+
+    - Traducción automática: con custom embeddings y con embeddings preentrenados.
+    - Clasificación de frases: Aplicación de los conceptos trabajados para la reutilización de la arquitectura de dos modelos.
+    - Análisis de sentimientos: análisis de sentimientos de textos.
+    - Análisis de sentimientos por aspectos (AbSA): análisis de aspectos en comentarios.
+
 
 
 # Author
